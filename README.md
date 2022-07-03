@@ -7,23 +7,15 @@
 <!-- PROJECT DESCRIPTION -->
 <br />
 <p align="center">
-  <a href="https://github.com/Apper-io/Default-Template">
-    <img src="docs/images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h1 align="center">Default-Template</h1>
-
-  <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/Apper-io/Default-Template"><strong>Explore the docs »</strong></a>
+  <a href="https://gi>
+    <a href="https://github.com/Apper-io/appas-app"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Apper-io/Default-Template">View Demo</a>
+    <a href="https://github.com/Apper-io/appas-app">View Demo</a>
     ·
-    <a href="https://github.com/Apper-io/Default-Template/issues">Report Bug</a>
+    <a href="https://github.com/Apper-io/appas-app/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Apper-io/Default-Template/issues">Request Feature</a>
+    <a href="https://github.com/Apper-io/appas-app/issues">Request Feature</a>
   </p>
 </p>
 
@@ -84,7 +76,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Roadmap
 
-See the [open issues](https://github.com/Apper-io/Default-Template/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/Apper-io/appas-app/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 
@@ -114,13 +106,13 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/Apper-io/Default-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/Apper-io/Default-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Apper-io/Default-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/Apper-io/Default-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/Apper-io/Default-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/Apper-io/Default-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Apper-io/Default-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/Apper-io/Default-Template/issues
-[license-shield]: https://img.shields.io/github/license/Apper-io/Default-Template.svg?style=for-the-badge
-[license-url]: https://github.com/Apper-io/Default-Template/blob/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/Apper-io/appas-app.svg?style=for-the-badge
+[contributors-url]: https://github.com/Apper-io/appas-app/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Apper-io/appas-app.svg?style=for-the-badge
+[forks-url]: https://github.com/Apper-io/appas-app/network/members
+[stars-shield]: https://img.shields.io/github/stars/Apper-io/appas-app.svg?style=for-the-badge
+[stars-url]: https://github.com/Apper-io/appas-app/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Apper-io/appas-app.svg?style=for-the-badge
+[issues-url]: https://github.com/Apper-io/appas-app/issues
+[license-shield]: https://img.shields.io/github/license/Apper-io/appas-app.svg?style=for-the-badge
+[license-url]: https://github.com/Apper-io/appas-app/blob/master/LICENSE
